@@ -1,3 +1,13 @@
+:root{
+    --cor-principal: #ffffff;
+    --cor-secundaria: #c0c0c0;
+    --botao-destaque: ;
+    --cor-de-fundo: #4A04A3;
+}
+
+
+
+
 *{
       margin: 0;
      padding: 0;
@@ -8,11 +18,9 @@
 }
 
 
-
-
-
 .principal{
     background-image: url(img/myljywvw4ukcy2dfo31n\ 1.png)
+    background-size:
     
 
 }
