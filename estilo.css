@@ -18,8 +18,13 @@
 
 .principal{
     background-image: url(img/myljywvw4ukcy2dfo31n\ 1.png);
-    background-size: contain;
+    background-size: cover ;
     background-repeat: no-repeat;
-    
+
+}
+.container{
+   height: 100vh;
+
+
 
 }
