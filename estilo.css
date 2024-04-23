@@ -33,4 +33,7 @@
    color:#1d55ff var (--cor-principal);
    padding: 1em;
    border-radius: 5px;
+   text-transform: none;
+   display: block;
+   
 }
